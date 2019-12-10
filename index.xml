@@ -18,7 +18,23 @@
        
        <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-035-advanced/posts/course/</guid>
        <description>&lt;h2 id=&#34;this-course-035&#34;&gt;this course 035&lt;/h2&gt;
-&lt;p&gt;Why this course? What expectations?&lt;/p&gt;
+&lt;p&gt;I took this course out of curiosity.
+I have a few years of professional experience
+as a service operations engineer (or in a similar role).
+So I didn&#39;t really expect to learn anything shockingly new.&lt;/p&gt;
+&lt;p&gt;I did, how ever, think it would be a good idea
+to be at least aware on what kinds of things
+are tought as &amp;ldquo;DevOps&amp;rdquo; in an academic context.
+At the same time I could ensure
+I had not missed anything important
+while picking the basics up during work.&lt;/p&gt;
+&lt;p&gt;As a bonus. There is of course a credit on offer.
+That does not hurt as far as I am concerned.&lt;/p&gt;
+&lt;p&gt;I do not really understand how this one question
+is expected to range from 250 to 500 for a post.
+Since I seem to have covered the content of the question
+and am only about half way done with the word count.
+I could ramble on or leave it here.&lt;/p&gt;
 </description>
      </item>
    
@@ -28,8 +44,33 @@
        <pubDate>Sun, 01 Dec 2019 20:28:37 +0200</pubDate>
        
        <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-035-advanced/posts/learned/</guid>
-       <description>&lt;h2 id=&#34;learned-035&#34;&gt;Learned 035&lt;/h2&gt;
-&lt;p&gt;What was learned during course?&lt;/p&gt;
+       <description>&lt;h2 id=&#34;learned-035&#34;&gt;learned 035&lt;/h2&gt;
+&lt;p&gt;I came into this course expecting to learn little.
+My expectations were met.
+But it is probably for the best.
+My participation was doomed from the start
+as far as the course staff might be concerned.&lt;/p&gt;
+&lt;p&gt;A few new things came up during the project.
+Those are mainly related to the specific tooling
+used for this project,
+since most of them I have not used before.&lt;/p&gt;
+&lt;p&gt;Hugo seems decent enough.
+Using static files,
+where the use of static files
+is sensible, is a great practice.
+And markdown is always convenient
+for simply structured text.&lt;/p&gt;
+&lt;p&gt;Travis was easy enough to use.
+But it did fail to wow me on any level.
+Using yaml as a syntax for anything
+other than loosely structured data
+is always a horrible idea.
+I think I will stick to Jenkins.&lt;/p&gt;
+&lt;p&gt;Github pages played their own role well.
+If I were hosting documentation for an open-source project
+I would probably use those.
+Then again, just hosting static pages is not exactly rocket science.
+I would have been curious to see if there are any fancier features there.&lt;/p&gt;
 </description>
      </item>
    
